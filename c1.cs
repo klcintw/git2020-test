@@ -1,1 +1,4 @@
-class c1 {/*AAA*/} 
+class c1 
+{
+	/*Demo.AAA*/
+} 
