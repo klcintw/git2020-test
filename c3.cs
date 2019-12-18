@@ -1,1 +1,4 @@
-class c3 {/*AAA*/} 
+class c3 {
+	/*AAA*/
+	/*改*/
+} 
